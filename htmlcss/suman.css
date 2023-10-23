@@ -1,0 +1,122 @@
+
+.up{
+    background-color: rgba(250, 235, 215, 0.448);
+    height:250px;
+    width: auto;
+}
+
+.down{
+    /* background-color: rgba(222, 80, 28, 0.803); */
+    min-height:100vh;
+    background-image:linear-gradient(rgba(222, 80, 28, 0.732),rgba(222, 80, 28, 0.934)),url("coll.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.card{
+    display: inline-flex;
+    justify-content:center;
+    margin: 10px;
+    margin-top: -200px;
+    /* margin-bottom: -0px; */
+    padding-top: 30px;
+}
+
+.cards{
+  
+    margin-left: 100px;
+
+
+}
+.btn{
+    background-color: red;
+  align-items: center;
+  border: 0;
+  border-radius: 100px;
+ 
+}
+
+img{
+    height: 50px;
+    width: 50px;
+    /* margin-bottom: 10px; */
+    margin-left: 15px;
+}
+
+.cont{
+    margin-top: 10px;
+    margin-left: 650px;
+    text-align: center;
+    display: inline-flex;
+}
+
+/* .circle{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    text-align: center;
+    
+} */
+#cont{
+    font-size: 4rem;
+    color: azure;
+    margin-left: 15px;
+    text-shadow: 2px 2px black;
+    font-style: italic;
+    /* font-weight: 400; */
+    /* text-align: center; */
+}
+#cont1{
+    font-size: 4rem;
+    margin-left: -75px;
+    font-style: italic;
+    text-shadow: 2px 2px orangered;
+    /* color: azure; */
+    /* margin-top: 15px; */
+    /* text-align: center; */
+}
+#sam{
+    font-size:20px;
+    margin-top: -27px;
+    margin-left: -70px;
+    color: blue;
+    text-shadow: 1px 1px black;
+
+}
+#weather{
+font-size: 1rem;
+
+}
+.weather{
+    display: inline-flex;
+    margin-inline-start: 140px;
+    margin-top: 40px;
+    color: aliceblue;
+}
+#weat{
+    margin-left: 45px;
+    margin-right: 35px;
+    /* display: inline-flex; */
+}
+.clearsky{
+    margin-top: 15px;
+    margin-right: 15px;
+}
+.bang{
+    margin-top: 25px;
+}
+#clearsky{
+    margin-top: -20px;
+}
+.moon{
+    margin-top: 35px;
+}
+#days{
+    margin: 10px;
+    margin-left: 40px;
+}
+span{
+    white-space: 100px;
+}
+
